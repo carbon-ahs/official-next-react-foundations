@@ -23,14 +23,16 @@ Each `chapter-XX` folder contains:
 
 ## 📖 Chapters Covered
 
-| #   | Chapter                     | Topics                    |
-| --- | --------------------------- | ------------------------- |
-| 01  | Getting Started             | Course setup, tooling     |
-| 02  | React Essentials            | Components, props, JSX    |
-| 03  | Updating UI with Javascript | DOM manipulation          |
-| 04  | Getting Started with React  | Init setup, Destructuring |
-| 05  | Building UI with Components | ...                       |
-| 04  | ...                         | ...                       |
+| #   | Chapter                         | Topics                         |
+| --- | ------------------------------- | ------------------------------ |
+| 01  | Getting Started                 | Course setup, tooling          |
+| 02  | React Essentials                | Components, props, JSX intro   |
+| 03  | Updating UI with Javascript     | DOM manipulation               |
+| 04  | Getting Started with React      | Init setup, Destructuring      |
+| 05  | Building UI with Components     | Components                     |
+| 06  | Displaying Data with Props      | Props, Destructuring mechanism |
+| 07  | Adding Interactivity with State | ...                            |
+| 00  | ...                             | ...                            |
 
 
 

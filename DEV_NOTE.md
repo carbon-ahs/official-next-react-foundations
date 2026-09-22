@@ -13,3 +13,12 @@
 ## Chapter 05
 
 - User interfaces can be broken down into smaller building blocks called components.
+
+## Chapter 06
+
+- Similar to a JavaScript function, you can design components that accept custom arguments (or props) 
+- Since props is an object, you can use object destructuring to explicitly name the values of props inside your function parameters
+
+## Chapter 07
+
+- S
