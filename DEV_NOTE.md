@@ -9,3 +9,7 @@
 
 - The destructuring syntax is a JavaScript syntax that makes it possible to unpack values from arrays, or properties from objects, into distinct variables. It can be used in locations that receive data (such as the left-hand side of an assignment or anywhere that creates new identifier bindings).
 - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Destructuring
+
+## Chapter 05
+
+- User interfaces can be broken down into smaller building blocks called components.

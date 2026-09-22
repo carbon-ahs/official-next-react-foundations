@@ -12,6 +12,7 @@ This repository documents my hands-on practice while working through the [Next.j
 official-next-react-foundations/
 ├── chapter-03
 ├── chapter-04
+├── chapter-05
 └── README.md
 ```
 
@@ -22,12 +23,14 @@ Each `chapter-XX` folder contains:
 
 ## 📖 Chapters Covered
 
-| #   | Chapter                     | Topics                 |
-| --- | --------------------------- | ---------------------- |
-| 01  | Getting Started             | Course setup, tooling  |
-| 02  | React Essentials            | Components, props, JSX |
-| 03  | Updating UI with Javascript | DOM manipulation       |
-| 04  | ...                         | ...                    |
+| #   | Chapter                     | Topics                    |
+| --- | --------------------------- | ------------------------- |
+| 01  | Getting Started             | Course setup, tooling     |
+| 02  | React Essentials            | Components, props, JSX    |
+| 03  | Updating UI with Javascript | DOM manipulation          |
+| 04  | Getting Started with React  | Init setup, Destructuring |
+| 05  | Building UI with Components | ...                       |
+| 04  | ...                         | ...                       |
 
 
 
@@ -72,7 +75,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📌 Progress Tracker
 
 - **Started:** _22-09-2026_
-- **Current Chapter:** _Chapter 03_
+- **Current Chapter:** _Chapter 05_
 - **Last Updated:** _22-09-2026_
 
 ---
