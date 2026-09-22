@@ -13,6 +13,8 @@ official-next-react-foundations/
 ├── chapter-03
 ├── chapter-04
 ├── chapter-05
+├── chapter-06
+├── chapter-07
 └── README.md
 ```
 
@@ -23,16 +25,17 @@ Each `chapter-XX` folder contains:
 
 ## 📖 Chapters Covered
 
-| #   | Chapter                         | Topics                         |
-| --- | ------------------------------- | ------------------------------ |
-| 01  | Getting Started                 | Course setup, tooling          |
-| 02  | React Essentials                | Components, props, JSX intro   |
-| 03  | Updating UI with Javascript     | DOM manipulation               |
-| 04  | Getting Started with React      | Init setup, Destructuring      |
-| 05  | Building UI with Components     | Components                     |
-| 06  | Displaying Data with Props      | Props, Destructuring mechanism |
-| 07  | Adding Interactivity with State | ...                            |
-| 00  | ...                             | ...                            |
+| #   | Chapter                         | Topics                                |
+| --- | ------------------------------- | ------------------------------------- |
+| 01  | Getting Started                 | Course setup, tooling                 |
+| 02  | React Essentials                | Components, props, JSX intro          |
+| 03  | Updating UI with Javascript     | DOM manipulation                      |
+| 04  | Getting Started with React      | Init setup, Destructuring             |
+| 05  | Building UI with Components     | Components                            |
+| 06  | Displaying Data with Props      | Props, Destructuring mechanism        |
+| 07  | Adding Interactivity with State | UseState hook, state management intro |
+| 08  | Installing Next.js              | 101                                   |
+| 09  | Components                      | ...                                   |
 
 
 
@@ -77,7 +80,7 @@ Then open [http://localhost:3000](http://localhost:3000) in your browser.
 ## 📌 Progress Tracker
 
 - **Started:** _22-09-2026_
-- **Current Chapter:** _Chapter 05_
+- **Current Chapter:** _Chapter 09_
 - **Last Updated:** _22-09-2026_
 
 ---

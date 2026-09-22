@@ -21,4 +21,6 @@
 
 ## Chapter 07
 
-- S
+- [State and hooks](https://nextjs.org/learn/react-foundations/updating-state#state-and-hooks)
+-  Unlike props which are passed to components as the first function parameter, the state is initiated and stored within a component. You can pass the state information to children components as props, but the logic for updating the state should be kept within the component where state was initially created.
+-  This was only an introduction to state, and there's more you can learn about managing state and data flow in your React applications. To learn more, we recommend you go through the Adding Interactivity and Managing State sections in the React documentation.
